@@ -187,7 +187,7 @@ A workflow for tracking certificate expiry dates, identifying missing documents 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=henok-tadesse1&theme=tokyo-night&hide_border=true&area=true" />
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=henok-tadesse1&theme=tokyo-night&hide_border=true&area=true"
   width="100%"
   alt="GitHub activity graph"
 />
