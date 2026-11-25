@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://wub-decor.netlify.app/">
+<a href="https://wubevent.co.uk/">
   <img src="https://img.shields.io/badge/LIVE_PROJECT-VISIT_WEBSITE-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -81,37 +81,45 @@ I build automation solutions for:
 
 ## 🚀 Featured Projects
 
-### 🎓 Ready4Learn
+### 🌐 Websites & Digital Platforms
 
-Employee learning and certificate management platform built with React and Vite.
+| Project | Description | Live Website | Source Code |
+| --- | --- | --- | --- |
+| **WUB Christian Wedding & Event Planner** | Responsive wedding and event planning website. React, Vite, SEO and Netlify. | [View Live Website](https://wubevent.co.uk/) · [Netlify](https://wub-decor.netlify.app/) | [View Source Code](https://github.com/henok-tadesse1/wub-decor) |
+| **TEDAR** | Digital wedding invitation platform with invitation design and publishing workflows. | [View Live Website](https://tedarinvites.com/) | Private |
+| **Manchester Church** | Community website featuring events, weekly programmes and CMS integration work. React, Vite and Netlify. | [View Live Website](https://manchesterchurch.org.uk/) | Private |
+| **PianoAll** | Online piano learning platform with account authentication and guest testing. | [View Website](https://pianoall.uk/) | Private |
+| **Ready4Learn** | Employee learning and certificate management platform. React, Vite, SharePoint and automation. | Internal platform | Private |
+| **Personal Portfolio** | Personal GitHub-hosted portfolio repository. | — | [View Source Code](https://github.com/henok-tadesse1/henoktadesse.github.io) |
 
-**Technologies:** React, Vite, SharePoint, Netlify, Automation
+### 📊 Data Analytics & Business Intelligence
 
----
+| Project | Description | Repository |
+| --- | --- | --- |
+| **Sales Analysis Dashboard** | Power BI and SQL Server reporting for sales, customer performance, products and budget comparisons. | [View Source Code](https://github.com/henok-tadesse1/sales_Analysis) |
+| **Airbnb Analysis** | Python data cleaning, pricing analysis and visualisation using Matplotlib, Seaborn and Folium. | [View Source Code](https://github.com/henok-tadesse1/Airbnb-Analysis-) |
+| **NYC 311 Dashboard** | Interactive Bokeh dashboard exploring New York City service requests by location, time and category. | [View Repository](https://github.com/henok-tadesse1/NYC-311) |
+| **Music Store SQL Analysis** | SQL practice project exploring business performance using PostgreSQL and pgAdmin. | [View Repository](https://github.com/henok-tadesse1/project-3) |
+| **NYC 311 — Additional Repository** | Additional version of the NYC 311 dashboard. | Private |
+| **Sales Analysis — Additional Repository** | Additional version of the sales reporting project. | Private |
 
-### 💍 WUB Christian Wedding Planner
+### ⚙️ Business Automation & Microsoft 365
 
-Responsive business website for a Manchester-based Christian wedding and event planning service.
+| Solution | Description | Technologies |
+| --- | --- | --- |
+| **Holiday Automation** | Processes approved leave emails and creates calendar events. | Power Automate, Outlook, SharePoint |
+| **Certificate Compliance Automation** | Tracks expiry dates, identifies compliance gaps and sends management reports. | SharePoint, Power Automate, Outlook |
+| **Management Reporting Dashboard** | Transforms operational reporting data into management dashboards. | Power BI, Power Query, SharePoint |
+| **Weekly Compliance Reporting** | Automated reporting of missing documentation and support plan compliance. | Power Automate, Excel, SharePoint |
+| **IT Service Desk Automation** | Converts incoming support emails into tracked tickets and acknowledgements. | Outlook, SharePoint, Power Automate |
 
-**Technologies:** React, Vite, SEO, Netlify
+Business automation solutions are presented without confidential operational data or internal system links.
 
-[View Live Website](https://wub-decor.netlify.app/)
+### 📁 Repository Directory
 
----
+[Browse all public repositories](https://github.com/henok-tadesse1?tab=repositories) · [Profile README repository](https://github.com/henok-tadesse1/Henok-tadesse1)
 
-### 🗓️ Holiday Automation
-
-A Power Automate solution that processes approved holiday emails, creates Outlook calendar events and schedules automatic replies.
-
-**Technologies:** Power Automate, Outlook, Microsoft Graph, SharePoint
-
----
-
-### 📄 Certificate Compliance Automation
-
-A workflow for tracking certificate expiry dates, identifying missing documents and sending management reports.
-
-**Technologies:** SharePoint, Power Automate, Outlook, HTML Reporting
+Private projects are showcased by description or public website where available; source code is restricted.
 
 ---
 
