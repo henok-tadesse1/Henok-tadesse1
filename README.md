@@ -83,35 +83,158 @@ I build automation solutions for:
 
 ### 🌐 Websites & Digital Platforms
 
-| Project | Description | Live Website | Source Code |
-| --- | --- | --- | --- |
-| **WUB Christian Wedding & Event Planner** | Responsive wedding and event planning website. React, Vite, SEO and Netlify. | [View Live Website](https://wubevent.co.uk/) · [Netlify](https://wub-decor.netlify.app/) | [View Source Code](https://github.com/henok-tadesse1/wub-decor) |
-| **TEDAR** | Digital wedding invitation platform with invitation design and publishing workflows. | [View Live Website](https://tedarinvites.com/) | Private |
-| **Manchester Church** | Community website featuring events, weekly programmes and CMS integration work. React, Vite and Netlify. | [View Live Website](https://manchesterchurch.org.uk/) | Private |
-| **PianoAll** | Online piano learning platform with account authentication and guest testing. | [View Website](https://pianoall.uk/) | Private |
-| **Ready4Learn** | Employee learning and certificate management platform. React, Vite, SharePoint and automation. | Internal platform | Private |
-| **Personal Portfolio** | Personal GitHub-hosted portfolio repository. | — | [View Source Code](https://github.com/henok-tadesse1/henoktadesse.github.io) |
+#### WUB Christian Wedding & Event Planner
+
+Responsive wedding and event planning website. React, Vite, SEO and Netlify.
+
+[View Live Website](https://wubevent.co.uk/) · [Netlify](https://wub-decor.netlify.app/)
+
+[View Source Code](https://github.com/henok-tadesse1/wub-decor)
+
+---
+
+#### TEDAR
+
+Digital wedding invitation platform with invitation design and publishing workflows.
+
+[View Live Website](https://tedarinvites.com/)
+
+**Source code:** Private
+
+---
+
+#### Manchester Church
+
+Community website featuring events, weekly programmes and CMS integration work. React, Vite and Netlify.
+
+[View Live Website](https://manchesterchurch.org.uk/)
+
+**Source code:** Private
+
+---
+
+#### PianoAll
+
+Online piano learning platform with account authentication and guest testing.
+
+[View Website](https://pianoall.uk/)
+
+**Source code:** Private
+
+---
+
+#### Ready4Learn
+
+Employee learning and certificate management platform. React, Vite, SharePoint and automation.
+
+**Access:** Internal platform
+
+**Source code:** Private
+
+---
+
+#### Personal Portfolio
+
+Personal GitHub-hosted portfolio repository.
+
+[View Source Code](https://github.com/henok-tadesse1/henoktadesse.github.io)
+
+---
+
 
 ### 📊 Data Analytics & Business Intelligence
 
-| Project | Description | Repository |
-| --- | --- | --- |
-| **Sales Analysis Dashboard** | Power BI and SQL Server reporting for sales, customer performance, products and budget comparisons. | [View Source Code](https://github.com/henok-tadesse1/sales_Analysis) |
-| **Airbnb Analysis** | Python data cleaning, pricing analysis and visualisation using Matplotlib, Seaborn and Folium. | [View Source Code](https://github.com/henok-tadesse1/Airbnb-Analysis-) |
-| **NYC 311 Dashboard** | Interactive Bokeh dashboard exploring New York City service requests by location, time and category. | [View Repository](https://github.com/henok-tadesse1/NYC-311) |
-| **Music Store SQL Analysis** | SQL practice project exploring business performance using PostgreSQL and pgAdmin. | [View Repository](https://github.com/henok-tadesse1/project-3) |
-| **NYC 311 — Additional Repository** | Additional version of the NYC 311 dashboard. | Private |
-| **Sales Analysis — Additional Repository** | Additional version of the sales reporting project. | Private |
+#### Sales Analysis Dashboard
+
+Power BI and SQL Server reporting for sales, customer performance, products and budget comparisons.
+
+[View Source Code](https://github.com/henok-tadesse1/sales_Analysis)
+
+---
+
+#### Airbnb Analysis
+
+Python data cleaning, pricing analysis and visualisation using Matplotlib, Seaborn and Folium.
+
+[View Source Code](https://github.com/henok-tadesse1/Airbnb-Analysis-)
+
+---
+
+#### NYC 311 Dashboard
+
+Interactive Bokeh dashboard exploring New York City service requests by location, time and category.
+
+[View Repository](https://github.com/henok-tadesse1/NYC-311)
+
+---
+
+#### Music Store SQL Analysis
+
+SQL practice project exploring business performance using PostgreSQL and pgAdmin.
+
+[View Repository](https://github.com/henok-tadesse1/project-3)
+
+---
+
+#### NYC 311 — Additional Repository
+
+Additional version of the NYC 311 dashboard.
+
+**Source code:** Private
+
+---
+
+#### Sales Analysis — Additional Repository
+
+Additional version of the sales reporting project.
+
+**Source code:** Private
+
+---
+
 
 ### ⚙️ Business Automation & Microsoft 365
 
-| Solution | Description | Technologies |
-| --- | --- | --- |
-| **Holiday Automation** | Processes approved leave emails and creates calendar events. | Power Automate, Outlook, SharePoint |
-| **Certificate Compliance Automation** | Tracks expiry dates, identifies compliance gaps and sends management reports. | SharePoint, Power Automate, Outlook |
-| **Management Reporting Dashboard** | Transforms operational reporting data into management dashboards. | Power BI, Power Query, SharePoint |
-| **Weekly Compliance Reporting** | Automated reporting of missing documentation and support plan compliance. | Power Automate, Excel, SharePoint |
-| **IT Service Desk Automation** | Converts incoming support emails into tracked tickets and acknowledgements. | Outlook, SharePoint, Power Automate |
+#### Holiday Automation
+
+Processes approved leave emails and creates calendar events.
+
+**Technologies:** Power Automate, Outlook, SharePoint
+
+---
+
+#### Certificate Compliance Automation
+
+Tracks expiry dates, identifies compliance gaps and sends management reports.
+
+**Technologies:** SharePoint, Power Automate, Outlook
+
+---
+
+#### Management Reporting Dashboard
+
+Transforms operational reporting data into management dashboards.
+
+**Technologies:** Power BI, Power Query, SharePoint
+
+---
+
+#### Weekly Compliance Reporting
+
+Automated reporting of missing documentation and support plan compliance.
+
+**Technologies:** Power Automate, Excel, SharePoint
+
+---
+
+#### IT Service Desk Automation
+
+Converts incoming support emails into tracked tickets and acknowledgements.
+
+**Technologies:** Outlook, SharePoint, Power Automate
+
+---
+
 
 Business automation solutions are presented without confidential operational data or internal system links.
 
