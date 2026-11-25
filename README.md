@@ -174,21 +174,19 @@ A workflow for tracking certificate expiry dates, identifying missing documents 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=henok-tadesse1&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/henok-tadesse1">
+  <img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=henok-tadesse1&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;theme=tokyonight&amp;hide_border=true" />
+</a>
+<a href="https://github.com/henok-tadesse1?tab=repositories">
+  <img height="170" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henok-tadesse1&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henok-tadesse1&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henok-tadesse1&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=henok-tadesse1&theme=tokyo-night&hide_border=true&area=true" />
-
-
+[View repositories](https://github.com/henok-tadesse1?tab=repositories) · [View contribution history](https://github.com/henok-tadesse1)
 
 </div>
+
+*These cards reflect repository activity available to the statistics service. Private projects and work across Microsoft 365, Power Platform and other platforms may not be represented.*
+
 
 ---
 
