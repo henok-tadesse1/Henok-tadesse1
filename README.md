@@ -305,18 +305,19 @@ Private projects are showcased by description or public website where available;
 
 <div align="center">
 
-<a href="https://github.com/henok-tadesse1">
-  <img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=henok-tadesse1&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
-<a href="https://github.com/henok-tadesse1?tab=repositories">
-  <img height="170" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henok-tadesse1&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
+<a href="https://github.com/henok-tadesse1?tab=repositories"><img alt="Total repositories: 13" src="https://img.shields.io/badge/Total_Repositories-13-0A66C2?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://github.com/henok-tadesse1?tab=repositories"><img alt="Public repositories: 7" src="https://img.shields.io/badge/Public_Repositories-7-00B894?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<img alt="Private repositories: 6" src="https://img.shields.io/badge/Private_Repositories-6-7B2CBF?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 
-[View repositories](https://github.com/henok-tadesse1?tab=repositories) · [View contribution history](https://github.com/henok-tadesse1)
+<br><br>
+
+<a href="https://github.com/henok-tadesse1#year-link-2026"><img width="95%" alt="GitHub contribution activity (publicly visible activity)" src="https://github-readme-activity-graph.vercel.app/graph?username=henok-tadesse1&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" /></a>
 
 </div>
 
-*These cards reflect repository activity available to the statistics service. Private projects and work across Microsoft 365, Power Platform and other platforms may not be represented.*
+[View official GitHub contribution history](https://github.com/henok-tadesse1) · [Explore public repositories](https://github.com/henok-tadesse1?tab=repositories)
+
+*Repository totals verified on 25 November 2026. The activity graph is supplied by a third-party service and may omit private contributions or be cached. The native GitHub contribution calendar is the authoritative reference.*
 
 
 ---
